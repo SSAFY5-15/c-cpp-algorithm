@@ -25,4 +25,6 @@ SSAFY 서울 15반 코딩테스트 대비 C/C++ 알고리즘 스터디 repositor
 - 각자 이름의 디렉토리에 제출한 .c .cpp 파일이 푸시됩니다.
 
 ## 주차별 문항
-1주차 : [백준] 부등호(2529), 촌수계산(2644), 로또(6603)
+1주차 : [백준] [부등호(2529)](https://www.acmicpc.net/problem/2529), [촌수계산(2644)](https://www.acmicpc.net/problem/2644), [로또(6603)](https://www.acmicpc.net/problem/6603)
+
+1주차 : [백준] [포도주시식(2156)](https://www.acmicpc.net/problem/2156), [양치기 꿍(3187)](https://www.acmicpc.net/problem/3187)
