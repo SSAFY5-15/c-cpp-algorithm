@@ -31,4 +31,7 @@ SSAFY 서울 15반 코딩테스트 대비 C/C++ 알고리즘 스터디 repositor
   일요일 문제 : [감시(15683)](https://www.acmicpc.net/problem/15683)
 
 3주차 : [백준] [스타트와 링크(14889)](https://www.acmicpc.net/problem/14889), [DFS 스페셜 저지(16964)](https://www.acmicpc.net/problem/16964)
-  일요일 문제 : 추후 공개
+  일요일 문제 : [내리막길(1520)](https://www.acmicpc.net/problem/1520)
+
+4주차 : [백준] 
+  일요일 문제 : 추후공개
