@@ -41,3 +41,6 @@ SSAFY 서울 15반 코딩테스트 대비 C/C++ 알고리즘 스터디 repositor
 
 6주차 : [백준] [최소 스패닝 트리(1197)](https://www.acmicpc.net/problem/1197), [월드컵(6987)](https://www.acmicpc.net/problem/6987)
   일요일 문제 : [상어 중학교(21609)](https://www.acmicpc.net/problem/21609)
+
+6주차 : [백준] [토마토(7576)](https://www.acmicpc.net/problem/7576), [네트워크 연결(1922)](https://www.acmicpc.net/problem/1922)
+  일요일 문제 : [해킹(10282)](https://www.acmicpc.net/problem/10282)
